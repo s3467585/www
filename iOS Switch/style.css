@@ -9,7 +9,7 @@
 	height: auto;
 	padding: 5px;
     margin: 10px auto; 
-	background: #bb3360;
+	background: #2a6964;
     border-radius:10px; //IE 11
 	-moz-border-radius:10px; //Mozilla
 	-webkit-border-radius:10px; //Chrome и Safari
@@ -42,7 +42,7 @@ border-radius:16px; //IE 11
 -moz-border-radius:16px; //Mozilla
 -webkit-border-radius:16px; //Chrome и Safari
 
-outline: 1px solid #787274;
+
 }
 
 .switch:before
@@ -59,7 +59,7 @@ border-radius:16px; //IE 11
 -moz-border-radius:16px; //Mozilla
 -webkit-border-radius:16px; //Chrome и Safari
 
-outline: 1px solid #787274;
+
 }
 
 .switch:after 
@@ -78,21 +78,21 @@ left: 3px;
 -webkit-box-shadow: 0 2px 5px #999999;
 box-shadow: 0 2px 5px #999999;
 
-outline: 1px solid #787274;
+
 }
 
 .switchOn , .switchOn:before
 {
 background: #4cd964 !important;
 
-outline: 1px solid #787274;
+
 }
 .switchOn:after
 {
 content: ' ';
 left: 51px !important;
 
-outline: 1px solid #787274;
+
 }
 
 
@@ -112,5 +112,5 @@ margin-left: auto;
 margin-right: auto;
 margin-bottom: 30px;
 
-outline: 1px solid #787274;
+
 }
